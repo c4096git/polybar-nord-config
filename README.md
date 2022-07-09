@@ -6,7 +6,7 @@ It only has a few of simple modules, such as workspaces, window title and bright
 If you like, you can add your own modules by yourself.
 ### How To Use
 #### Install Font Awesome
-Arch Linux: `sudo pacman -S ttf-font-awesome` 
+Arch Linux: `sudo pacman -S ttf-font-awesome`   
 Debian / Ubuntu: `sudo apt install fonts-font-awesome`    
 Fedora / CentOS: `sudo dnf install fontawesome-fonts`   
 #### Download Config
