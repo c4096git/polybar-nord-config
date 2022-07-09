@@ -1,6 +1,7 @@
 # polybar-nord-config
 ![Screenshot](./screenshot.png "Screenshot")
 ### About
+A simple polybar config based on [Nord Color Theme](https://www.nordtheme.com/).
 ### Modules
 It only has a few of simple modules, such as workspaces, window title and brightness. All modules are shown in the screenshot above.    
 If you like, you can add your own modules by yourself.
